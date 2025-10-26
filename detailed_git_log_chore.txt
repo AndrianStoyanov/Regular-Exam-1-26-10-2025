@@ -1,0 +1,25 @@
+commit 77585c42832286b6c743c3b4b6a0a45417f0dcb4
+Author: AndrianStoyanov <ancast@abv.bg>
+Date:   Sun Oct 26 10:00:00 2025 +0200
+
+    This is a combination of 3 commits in chore.
+    
+    commit 1 chore
+    
+    commit 2 chore
+    
+    commit 3 chore
+
+M	index.html
+M	script.js
+M	style.css
+
+commit d5ba0bc39e01f146ff01507b2ccc934dab86e060
+Author: SUContent <134996680+SUContent@users.noreply.github.com>
+Date:   Fri Oct 24 17:06:43 2025 +0300
+
+    Initial commit
+
+A	index.html
+A	script.js
+A	style.css
