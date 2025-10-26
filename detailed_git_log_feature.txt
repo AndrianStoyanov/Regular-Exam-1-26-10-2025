@@ -1,0 +1,25 @@
+commit e0355628f7c44f2e446ee015478b2793422c5585
+Author: AndrianStoyanov <ancast@abv.bg>
+Date:   Sun Oct 26 09:31:31 2025 +0200
+
+    This is a combination of 3 commits in feature.
+    
+    commit 1 feature
+    
+    commit 2 feature
+    
+    commit 3 feature
+
+M	index.html
+M	script.js
+M	style.css
+
+commit d5ba0bc39e01f146ff01507b2ccc934dab86e060
+Author: SUContent <134996680+SUContent@users.noreply.github.com>
+Date:   Fri Oct 24 17:06:43 2025 +0300
+
+    Initial commit
+
+A	index.html
+A	script.js
+A	style.css
