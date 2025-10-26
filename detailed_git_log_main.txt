@@ -1,0 +1,9 @@
+commit d5ba0bc39e01f146ff01507b2ccc934dab86e060
+Author: SUContent <134996680+SUContent@users.noreply.github.com>
+Date:   Fri Oct 24 17:06:43 2025 +0300
+
+    Initial commit
+
+A	index.html
+A	script.js
+A	style.css
